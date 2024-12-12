@@ -1,0 +1,7 @@
+Spoločnosť OpenAI expanduje v rámci starého kontinentu.
+
+Tvorca popredného chatbota ChatGPT otvára pobočku v Zürichu. Americká spoločnosť OpenAI tým chce ďalej rozširovať svoju prítomnosť v Európe. Centrum by malo pracovať predovšetkým na riešeniach okolo takzvanej multimodálnej umelej inteligencie. Inými slovami, na veľkých jazykových modeloch, ktoré dokážu generovať obsah aj porozumieť príkazom v textovej, obrázkovej (video) aj hlasovej forme.
+
+Stojí zároveň za povšimnutie, že zürišskú centrálu posilnia traja významní výskumníci, ktorí predtým pracovali v spoločnosti Google DeepMind. Lucas Beyer je považovaný za experta na robustné a škálovateľné modely AI, Alexander Kolesnikov je špecialista na hlboké učenie v oblasti vizuálneho rozpoznávania a Xiaohua Zhai má priniesť skúsenosti z oblasti nielen multimodálneho učenia.
+
+Okrem novej pobočky v Zürichu má americká spoločnosť kancelárie aj v Bruseli, Dubline, Londýne a Paríži.
